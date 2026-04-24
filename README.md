@@ -1,3 +1,4 @@
+# Preface
 nTOP's Implicit Modelling is an absolute paradigm shift compared to traditional CAD. It's **more akin to programming** than anything else. I do realize that professional usecases revolve primarily around optimizing initial geometry imported from CAD, but nTOP themselves showoff the **robustness of their Field Driven Design**. I also think it's **imperative that any nTOP user knows how to model** in the software, even for the sake of performing optimization on imported CAD geometries. And what is the best way to learn? **Practice, fail and practice some more!**
 
 _It's also incredibly fun and refreshing figuring out how to `program` these simple models_ 😄
